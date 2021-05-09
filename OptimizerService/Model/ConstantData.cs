@@ -17,7 +17,7 @@
         }
         public enum PartOfBreak
         {
-            ONE, TWO, THREE
+            ONE, TWO, THREE,FOUR
         }
         public enum RateEnum : int
         {

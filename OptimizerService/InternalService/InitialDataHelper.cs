@@ -21,7 +21,7 @@ namespace OptimizerService.InternalService
                      new Placement(Break.Break3,PartOfBreak.ONE),
                       new Placement(Break.Break3,PartOfBreak.TWO),
                        new Placement(Break.Break3,PartOfBreak.THREE)
-
+                   //    new Placement(Break.Break3,PartOfBreak.FOUR)
                       };
         }
 
@@ -38,6 +38,7 @@ namespace OptimizerService.InternalService
                       new Commercial{Name="Commercial7",CType=CType.Finance,Demographic=Demographic.M1835},
                        new Commercial{Name="Commercial8",CType=CType.Automotive,Demographic=Demographic.T1840},
                         new Commercial{Name="Commercial9",CType=CType.Travel,Demographic=Demographic.W2530}
+                      //   new Commercial{Name="Commercial10",CType=CType.Finance,Demographic=Demographic.T1840}
             };
         }
 
